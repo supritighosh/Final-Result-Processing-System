@@ -9,4 +9,4 @@ Features:
 •	The mark would be calculated automatically and saved in this software for future use.
 •	Provides the flexibility to add, modify or recreate new results for students.
 
-Home Screen: [here](/FinalResultProcessingSystem/blob/master/HomeScreen.JPG)
+Home Screen: [here](/Final-Result-Processing-System/blob/master/HomeScreen.JPG)
