@@ -1,4 +1,4 @@
-# Final Result Processing System
+## Final Result Processing System
 
 Developed an application software in C# entitled “Final Result Processing System” which is a desktop application. The application is built through C\#, MySQL.
 
